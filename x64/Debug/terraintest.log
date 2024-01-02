@@ -1,0 +1,8 @@
+﻿  QEM.cpp
+  main.cpp
+C:\Users\29206\Desktop\23学习记录\terraintest\main.cpp(152,80): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\29206\Desktop\23学习记录\terraintest\main.cpp(260,29): warning C4552: ”*“: 未使用表达式结果
+C:\Users\29206\Desktop\23学习记录\terraintest\main.cpp(261,29): warning C4552: ”*“: 未使用表达式结果
+  正在生成代码...
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  terraintest.vcxproj -> C:\Users\29206\Desktop\23学习记录\terraintest\x64\Debug\terraintest.exe
